@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -79,9 +78,7 @@
             </div>
         </div>
     </div>
-
     <!--HERO SECTION ENDS-->
-
 
     <!--ABOUT SECTION STARTS-->
     <section id="about" class="row w-100  bg-light">
@@ -131,12 +128,7 @@
         </div>
     </section>
     <!--ABOUT SECTION ENDS-->
-
-
-
-
-
-
+    
     <!--SERVICES STARTS HERE-->
     <section id="services">
         <div class="container">
@@ -232,5 +224,4 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js " integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6 " crossorigin="anonymous "></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js " integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa " crossorigin="anonymous "></script>
 </body>
-
 </html>
